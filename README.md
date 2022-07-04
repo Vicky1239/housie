@@ -1,4 +1,7 @@
-# housie
+# Prerequisite
+Ruby should be installed on the syaytem to run
+
+# Housie
 A version of Bingo played in the UK and some other countries is called "Housie". Each ticket shows exactly 15 numbers, and in each ticket every number from 1 to 90 is used exactly once.
 
 A ticket is a grid of 3 rows by 9 columns.
@@ -13,6 +16,10 @@ Write a Ruby program to generate random Housie tickets. The Ruby program must ha
 
 
 # Genarate Ticket
+1. Clone repo housie
+2. cd housie
+3. ruby housie.rb
+
 Run the file Housie.rb with ruby to get the output
 
 # ruby housie.rb
