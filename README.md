@@ -1,5 +1,5 @@
 # Prerequisite
-Ruby should be installed on the syaytem to run
+Ruby should be installed on the system to run
 
 # Housie
 A version of Bingo played in the UK and some other countries is called "Housie". Each ticket shows exactly 15 numbers, and in each ticket every number from 1 to 90 is used exactly once.
